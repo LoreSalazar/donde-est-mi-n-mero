@@ -1,0 +1,3 @@
+﻿  donde_esta_mi_numero.cpp
+C:\Users\loren\source\repos\donde_esta_mi_numero\donde_esta_mi_numero\donde_esta_mi_numero.cpp(13,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  donde_esta_mi_numero.vcxproj -> C:\Users\loren\source\repos\donde_esta_mi_numero\donde_esta_mi_numero\x64\Debug\donde_esta_mi_numero.exe
